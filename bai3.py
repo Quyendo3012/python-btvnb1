@@ -1,0 +1,7 @@
+n = int(input('n = '))
+he16 = hex(n)
+he8 = oct(n)
+he2 = bin(n)
+print('n o dang he co so 16 la:', he16)
+print('n o dang he co so 8 la:', he8)
+print('n o dang he co so 2', he2)
